@@ -1,0 +1,7 @@
+venv/
+sanity_checks.py
+credentials/
+config/
+.idea/
+__pycache__/
+.DS_Store
